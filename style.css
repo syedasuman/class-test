@@ -1,0 +1,23 @@
+
+body{
+	margin: 0px;
+}
+
+
+
+header{
+	height: 50px;
+	width: 100%;
+	background-color: black;
+	color: white;
+	display: inline-table;
+	position: absolute;
+}
+ul{
+	display: flex;
+	justify-content: space-around;
+}
+button{
+	margin: 0px;
+	align-items: right;
+}
